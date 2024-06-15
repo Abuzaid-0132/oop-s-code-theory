@@ -44,7 +44,7 @@ public:
 
 int main()
 {
-    teacher t1("Zain", "Computer Science", "DBMS", 75000); // constructor called.
+    teacher t1("Zain", "Computer Science", "DBMS", 75000); // constructor called...
     t1.getInfo();
 
     return 0;
