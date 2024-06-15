@@ -32,7 +32,7 @@ public:
 int main()
 {
     student s1("Zain khan", 9.8);
-    student s2(s1); // default copy constructor....
+    student s2(s1); // default copy constructor.
     s1.getInfo();
 
     s2.name = "Sara";
